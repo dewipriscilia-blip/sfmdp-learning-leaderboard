@@ -1,0 +1,1402 @@
+{
+  "schemaVersion": 1,
+  "projectYear": 2025,
+  "datasetLabel": "DATA SINTETIS - pengembangan aplikasi, bukan hasil peserta",
+  "isAnonymous": true,
+  "participants": [
+    {
+      "id": "P001",
+      "name": "Peserta Demo 001",
+      "dealer": "Main Dealer Demo 01",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 67,
+        "obs2": 84,
+        "obs3": 68,
+        "obs4": 75,
+        "post2": 59,
+        "post3": 56,
+        "post4": 85,
+        "post4_raw": 83,
+        "masterpiece": 0,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 37,
+        "pre2": 52,
+        "post2": 59,
+        "pre3": 34,
+        "post3": 56,
+        "post4": 85
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          67,
+          66.5,
+          59.599999999999994,
+          22.5
+        ],
+        "total": 215.6,
+        "rank": 28
+      }
+    },
+    {
+      "id": "P002",
+      "name": "Peserta Demo 002",
+      "dealer": "Main Dealer Demo 02",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 84,
+        "obs2": 68,
+        "obs3": 78,
+        "obs4": 91,
+        "post2": 76,
+        "post3": 87,
+        "post4": 95,
+        "post4_raw": 74,
+        "masterpiece": 0,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 39,
+        "pre2": 41,
+        "post2": 76,
+        "pre3": 37,
+        "post3": 87,
+        "post4": 95
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          84,
+          73.6,
+          84.3,
+          27.3
+        ],
+        "total": 269.2,
+        "rank": 4
+      }
+    },
+    {
+      "id": "P003",
+      "name": "Peserta Demo 003",
+      "dealer": "Main Dealer Demo 03",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 73,
+        "obs2": 68,
+        "obs3": 74,
+        "obs4": 67,
+        "post2": 68,
+        "post3": 59,
+        "post4": 53,
+        "post4_raw": 63,
+        "masterpiece": 0,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 49,
+        "pre2": 49,
+        "post2": 68,
+        "pre3": 47,
+        "post3": 59,
+        "post4": 53
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          73,
+          68,
+          63.5,
+          20.099999999999998
+        ],
+        "total": 224.6,
+        "rank": 24
+      }
+    },
+    {
+      "id": "P004",
+      "name": "Peserta Demo 004",
+      "dealer": "Main Dealer Demo 04",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 83,
+        "obs2": 95,
+        "obs3": 81,
+        "obs4": 64,
+        "post2": 50,
+        "post3": 61,
+        "post4": 83,
+        "post4_raw": 80,
+        "masterpiece": 20,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 57,
+        "pre2": 55,
+        "post2": 50,
+        "pre3": 43,
+        "post3": 61,
+        "post4": 83
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          83,
+          63.5,
+          67,
+          23.2
+        ],
+        "total": 236.7,
+        "rank": 14
+      }
+    },
+    {
+      "id": "P005",
+      "name": "Peserta Demo 005",
+      "dealer": "Main Dealer Demo 05",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 70,
+        "obs2": 73,
+        "obs3": 65,
+        "obs4": 66,
+        "post2": 54,
+        "post3": 89,
+        "post4": 51,
+        "post4_raw": 90,
+        "masterpiece": 0,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 34,
+        "pre2": 31,
+        "post2": 54,
+        "pre3": 51,
+        "post3": 89,
+        "post4": 51
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          70,
+          59.699999999999996,
+          81.8,
+          19.8
+        ],
+        "total": 231.3,
+        "rank": 21
+      }
+    },
+    {
+      "id": "P006",
+      "name": "Peserta Demo 006",
+      "dealer": "Main Dealer Demo 06",
+      "groupId": "G01",
+      "legacyInputs": {
+        "obs1": 90,
+        "obs2": 77,
+        "obs3": 54,
+        "obs4": 92,
+        "post2": 61,
+        "post3": 87,
+        "post4": 81,
+        "post4_raw": 84,
+        "masterpiece": 0,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 30,
+        "pre2": 55,
+        "post2": 61,
+        "pre3": 50,
+        "post3": 87,
+        "post4": 81
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          90,
+          65.8,
+          77.1,
+          27.599999999999998
+        ],
+        "total": 260.5,
+        "rank": 8
+      }
+    },
+    {
+      "id": "P007",
+      "name": "Peserta Demo 007",
+      "dealer": "Main Dealer Demo 07",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 86,
+        "obs2": 69,
+        "obs3": 70,
+        "obs4": 87,
+        "post2": 69,
+        "post3": 67,
+        "post4": 69,
+        "post4_raw": 60,
+        "masterpiece": 0,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 47,
+        "pre2": 47,
+        "post2": 69,
+        "pre3": 36,
+        "post3": 67,
+        "post4": 69
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          86,
+          69,
+          67.9,
+          26.099999999999998
+        ],
+        "total": 249,
+        "rank": 11
+      }
+    },
+    {
+      "id": "P008",
+      "name": "Peserta Demo 008",
+      "dealer": "Main Dealer Demo 08",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 50,
+        "obs2": 67,
+        "obs3": 61,
+        "obs4": 72,
+        "post2": 52,
+        "post3": 65,
+        "post4": 96,
+        "post4_raw": 78,
+        "masterpiece": 0,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 46,
+        "pre2": 41,
+        "post2": 52,
+        "pre3": 34,
+        "post3": 65,
+        "post4": 96
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          50,
+          56.5,
+          63.8,
+          21.599999999999998
+        ],
+        "total": 191.9,
+        "rank": 30
+      }
+    },
+    {
+      "id": "P009",
+      "name": "Peserta Demo 009",
+      "dealer": "Main Dealer Demo 09",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 92,
+        "obs2": 92,
+        "obs3": 88,
+        "obs4": 91,
+        "post2": 71,
+        "post3": 95,
+        "post4": 86,
+        "post4_raw": 86,
+        "masterpiece": 20,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 32,
+        "pre2": 49,
+        "post2": 71,
+        "pre3": 28,
+        "post3": 95,
+        "post4": 86
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          92,
+          77.3,
+          92.9,
+          31.3
+        ],
+        "total": 293.50000000000006,
+        "rank": 1
+      }
+    },
+    {
+      "id": "P010",
+      "name": "Peserta Demo 010",
+      "dealer": "Main Dealer Demo 10",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 93,
+        "obs2": 77,
+        "obs3": 59,
+        "obs4": 68,
+        "post2": 68,
+        "post3": 70,
+        "post4": 88,
+        "post4_raw": 62,
+        "masterpiece": 0,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 55,
+        "pre2": 50,
+        "post2": 68,
+        "pre3": 40,
+        "post3": 70,
+        "post4": 88
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          93,
+          70.69999999999999,
+          66.7,
+          20.4
+        ],
+        "total": 250.79999999999998,
+        "rank": 10
+      }
+    },
+    {
+      "id": "P011",
+      "name": "Peserta Demo 011",
+      "dealer": "Main Dealer Demo 11",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 95,
+        "obs2": 84,
+        "obs3": 50,
+        "obs4": 94,
+        "post2": 78,
+        "post3": 69,
+        "post4": 58,
+        "post4_raw": 55,
+        "masterpiece": 20,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 45,
+        "pre2": 44,
+        "post2": 78,
+        "pre3": 37,
+        "post3": 69,
+        "post4": 58
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          95,
+          79.8,
+          63.3,
+          32.2
+        ],
+        "total": 270.3,
+        "rank": 2
+      }
+    },
+    {
+      "id": "P012",
+      "name": "Peserta Demo 012",
+      "dealer": "Main Dealer Demo 12",
+      "groupId": "G02",
+      "legacyInputs": {
+        "obs1": 73,
+        "obs2": 81,
+        "obs3": 67,
+        "obs4": 70,
+        "post2": 54,
+        "post3": 65,
+        "post4": 82,
+        "post4_raw": 66,
+        "masterpiece": 20,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 33,
+        "pre2": 39,
+        "post2": 54,
+        "pre3": 49,
+        "post3": 65,
+        "post4": 82
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          73,
+          62.099999999999994,
+          65.6,
+          25
+        ],
+        "total": 225.7,
+        "rank": 23
+      }
+    },
+    {
+      "id": "P013",
+      "name": "Peserta Demo 013",
+      "dealer": "Main Dealer Demo 13",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 62,
+        "obs2": 71,
+        "obs3": 78,
+        "obs4": 69,
+        "post2": 54,
+        "post3": 75,
+        "post4": 77,
+        "post4_raw": 96,
+        "masterpiece": 20,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 65,
+        "pre2": 44,
+        "post2": 54,
+        "pre3": 25,
+        "post3": 75,
+        "post4": 77
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          62,
+          59.099999999999994,
+          75.9,
+          24.7
+        ],
+        "total": 221.7,
+        "rank": 26
+      }
+    },
+    {
+      "id": "P014",
+      "name": "Peserta Demo 014",
+      "dealer": "Main Dealer Demo 14",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 83,
+        "obs2": 51,
+        "obs3": 52,
+        "obs4": 82,
+        "post2": 76,
+        "post3": 54,
+        "post4": 85,
+        "post4_raw": 71,
+        "masterpiece": 10,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 30,
+        "pre2": 45,
+        "post2": 76,
+        "pre3": 27,
+        "post3": 54,
+        "post4": 85
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          83,
+          68.5,
+          53.4,
+          26.599999999999998
+        ],
+        "total": 231.5,
+        "rank": 19
+      }
+    },
+    {
+      "id": "P015",
+      "name": "Peserta Demo 015",
+      "dealer": "Main Dealer Demo 15",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 55,
+        "obs2": 73,
+        "obs3": 80,
+        "obs4": 74,
+        "post2": 67,
+        "post3": 71,
+        "post4": 95,
+        "post4_raw": 55,
+        "masterpiece": 10,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 45,
+        "pre2": 51,
+        "post2": 67,
+        "pre3": 41,
+        "post3": 71,
+        "post4": 95
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          55,
+          68.8,
+          73.69999999999999,
+          24.2
+        ],
+        "total": 221.7,
+        "rank": 26
+      }
+    },
+    {
+      "id": "P016",
+      "name": "Peserta Demo 016",
+      "dealer": "Main Dealer Demo 16",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 74,
+        "obs2": 79,
+        "obs3": 79,
+        "obs4": 84,
+        "post2": 81,
+        "post3": 85,
+        "post4": 59,
+        "post4_raw": 88,
+        "masterpiece": 20,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 59,
+        "pre2": 43,
+        "post2": 81,
+        "pre3": 48,
+        "post3": 85,
+        "post4": 59
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          74,
+          80.39999999999999,
+          83.19999999999999,
+          29.2
+        ],
+        "total": 266.79999999999995,
+        "rank": 5
+      }
+    },
+    {
+      "id": "P017",
+      "name": "Peserta Demo 017",
+      "dealer": "Main Dealer Demo 17",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 87,
+        "obs2": 70,
+        "obs3": 51,
+        "obs4": 55,
+        "post2": 62,
+        "post3": 50,
+        "post4": 87,
+        "post4_raw": 69,
+        "masterpiece": 20,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 45,
+        "pre2": 49,
+        "post2": 62,
+        "pre3": 40,
+        "post3": 50,
+        "post4": 87
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          87,
+          64.4,
+          50.3,
+          20.5
+        ],
+        "total": 222.2,
+        "rank": 25
+      }
+    },
+    {
+      "id": "P018",
+      "name": "Peserta Demo 018",
+      "dealer": "Main Dealer Demo 18",
+      "groupId": "G03",
+      "legacyInputs": {
+        "obs1": 67,
+        "obs2": 74,
+        "obs3": 92,
+        "obs4": 81,
+        "post2": 50,
+        "post3": 67,
+        "post4": 68,
+        "post4_raw": 72,
+        "masterpiece": 20,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 41,
+        "pre2": 38,
+        "post2": 50,
+        "pre3": 50,
+        "post3": 67,
+        "post4": 68
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          67,
+          57.2,
+          74.5,
+          28.3
+        ],
+        "total": 227,
+        "rank": 22
+      }
+    },
+    {
+      "id": "P019",
+      "name": "Peserta Demo 019",
+      "dealer": "Main Dealer Demo 19",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 91,
+        "obs2": 62,
+        "obs3": 57,
+        "obs4": 86,
+        "post2": 80,
+        "post3": 75,
+        "post4": 87,
+        "post4_raw": 50,
+        "masterpiece": 20,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 61,
+        "pre2": 37,
+        "post2": 80,
+        "pre3": 42,
+        "post3": 75,
+        "post4": 87
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          91,
+          74.6,
+          69.6,
+          29.8
+        ],
+        "total": 265,
+        "rank": 7
+      }
+    },
+    {
+      "id": "P020",
+      "name": "Peserta Demo 020",
+      "dealer": "Main Dealer Demo 20",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 67,
+        "obs2": 65,
+        "obs3": 61,
+        "obs4": 81,
+        "post2": 85,
+        "post3": 96,
+        "post4": 93,
+        "post4_raw": 75,
+        "masterpiece": 0,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 49,
+        "pre2": 30,
+        "post2": 85,
+        "pre3": 31,
+        "post3": 96,
+        "post4": 93
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          67,
+          79,
+          85.49999999999999,
+          24.3
+        ],
+        "total": 255.8,
+        "rank": 9
+      }
+    },
+    {
+      "id": "P021",
+      "name": "Peserta Demo 021",
+      "dealer": "Main Dealer Demo 21",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 95,
+        "obs2": 84,
+        "obs3": 74,
+        "obs4": 52,
+        "post2": 93,
+        "post3": 64,
+        "post4": 51,
+        "post4_raw": 51,
+        "masterpiece": 10,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 58,
+        "pre2": 31,
+        "post2": 93,
+        "pre3": 31,
+        "post3": 64,
+        "post4": 51
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          95,
+          90.3,
+          67,
+          17.6
+        ],
+        "total": 269.90000000000003,
+        "rank": 3
+      }
+    },
+    {
+      "id": "P022",
+      "name": "Peserta Demo 022",
+      "dealer": "Main Dealer Demo 22",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 66,
+        "obs2": 84,
+        "obs3": 81,
+        "obs4": 77,
+        "post2": 62,
+        "post3": 76,
+        "post4": 96,
+        "post4_raw": 62,
+        "masterpiece": 20,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 37,
+        "pre2": 46,
+        "post2": 62,
+        "pre3": 43,
+        "post3": 76,
+        "post4": 96
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          66,
+          68.6,
+          77.5,
+          27.099999999999998
+        ],
+        "total": 239.2,
+        "rank": 13
+      }
+    },
+    {
+      "id": "P023",
+      "name": "Peserta Demo 023",
+      "dealer": "Main Dealer Demo 23",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 96,
+        "obs2": 56,
+        "obs3": 58,
+        "obs4": 70,
+        "post2": 61,
+        "post3": 53,
+        "post4": 70,
+        "post4_raw": 71,
+        "masterpiece": 20,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 60,
+        "pre2": 31,
+        "post2": 61,
+        "pre3": 27,
+        "post3": 53,
+        "post4": 70
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          96,
+          59.5,
+          54.49999999999999,
+          25
+        ],
+        "total": 235,
+        "rank": 15
+      }
+    },
+    {
+      "id": "P024",
+      "name": "Peserta Demo 024",
+      "dealer": "Main Dealer Demo 24",
+      "groupId": "G04",
+      "legacyInputs": {
+        "obs1": 82,
+        "obs2": 57,
+        "obs3": 91,
+        "obs4": 95,
+        "post2": 64,
+        "post3": 88,
+        "post4": 56,
+        "post4_raw": 70,
+        "masterpiece": 20,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 46,
+        "pre2": 32,
+        "post2": 64,
+        "pre3": 53,
+        "post3": 88,
+        "post4": 56
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          82,
+          61.89999999999999,
+          88.89999999999999,
+          32.5
+        ],
+        "total": 265.29999999999995,
+        "rank": 6
+      }
+    },
+    {
+      "id": "P025",
+      "name": "Peserta Demo 025",
+      "dealer": "Main Dealer Demo 25",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 74,
+        "obs2": 56,
+        "obs3": 69,
+        "obs4": 70,
+        "post2": 67,
+        "post3": 74,
+        "post4": 65,
+        "post4_raw": 68,
+        "masterpiece": 10,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 37,
+        "pre2": 53,
+        "post2": 67,
+        "pre3": 29,
+        "post3": 74,
+        "post4": 65
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          74,
+          63.7,
+          72.5,
+          23
+        ],
+        "total": 233.2,
+        "rank": 17
+      }
+    },
+    {
+      "id": "P026",
+      "name": "Peserta Demo 026",
+      "dealer": "Main Dealer Demo 26",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 63,
+        "obs2": 64,
+        "obs3": 52,
+        "obs4": 83,
+        "post2": 62,
+        "post3": 67,
+        "post4": 92,
+        "post4_raw": 74,
+        "masterpiece": 10,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 50,
+        "pre2": 44,
+        "post2": 62,
+        "pre3": 40,
+        "post3": 67,
+        "post4": 92
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          63,
+          62.599999999999994,
+          62.5,
+          26.9
+        ],
+        "total": 215,
+        "rank": 29
+      }
+    },
+    {
+      "id": "P027",
+      "name": "Peserta Demo 027",
+      "dealer": "Main Dealer Demo 27",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 76,
+        "obs2": 90,
+        "obs3": 80,
+        "obs4": 86,
+        "post2": 74,
+        "post3": 61,
+        "post4": 79,
+        "post4_raw": 96,
+        "masterpiece": 0,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 34,
+        "pre2": 39,
+        "post2": 74,
+        "pre3": 50,
+        "post3": 61,
+        "post4": 79
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          76,
+          78.8,
+          66.69999999999999,
+          25.8
+        ],
+        "total": 247.3,
+        "rank": 12
+      }
+    },
+    {
+      "id": "P028",
+      "name": "Peserta Demo 028",
+      "dealer": "Main Dealer Demo 28",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 86,
+        "obs2": 84,
+        "obs3": 78,
+        "obs4": 76,
+        "post2": 51,
+        "post3": 52,
+        "post4": 79,
+        "post4_raw": 60,
+        "masterpiece": 10,
+        "time1": 100
+      },
+      "recap": {
+        "refreshment": 55,
+        "pre2": 52,
+        "post2": 51,
+        "pre3": 42,
+        "post3": 52,
+        "post4": 79
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          86,
+          60.89999999999999,
+          59.8,
+          24.8
+        ],
+        "total": 231.5,
+        "rank": 19
+      }
+    },
+    {
+      "id": "P029",
+      "name": "Peserta Demo 029",
+      "dealer": "Main Dealer Demo 29",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 90,
+        "obs2": 59,
+        "obs3": 58,
+        "obs4": 83,
+        "post2": 59,
+        "post3": 55,
+        "post4": 59,
+        "post4_raw": 54,
+        "masterpiece": 20,
+        "time1": 50
+      },
+      "recap": {
+        "refreshment": 38,
+        "pre2": 34,
+        "post2": 59,
+        "pre3": 40,
+        "post3": 55,
+        "post4": 59
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          90,
+          59,
+          55.9,
+          28.9
+        ],
+        "total": 233.8,
+        "rank": 16
+      }
+    },
+    {
+      "id": "P030",
+      "name": "Peserta Demo 030",
+      "dealer": "Main Dealer Demo 30",
+      "groupId": "G05",
+      "legacyInputs": {
+        "obs1": 69,
+        "obs2": 92,
+        "obs3": 67,
+        "obs4": 53,
+        "post2": 83,
+        "post3": 57,
+        "post4": 54,
+        "post4_raw": 80,
+        "masterpiece": 10,
+        "time1": 0
+      },
+      "recap": {
+        "refreshment": 42,
+        "pre2": 33,
+        "post2": 83,
+        "pre3": 28,
+        "post3": 57,
+        "post4": 54
+      },
+      "source": {
+        "roster": "Fixture sintetis",
+        "score": "Fixture sintetis"
+      },
+      "reference": {
+        "days": [
+          69,
+          85.69999999999999,
+          60,
+          17.9
+        ],
+        "total": 232.6,
+        "rank": 18
+      }
+    }
+  ],
+  "groups": [
+    {
+      "id": "G01",
+      "name": "Kelompok Demo 01",
+      "legacyInputs": {
+        "winner1": 20,
+        "tasks2": [
+          3,
+          3,
+          1
+        ],
+        "tasks3": [
+          3,
+          1,
+          3,
+          1
+        ]
+      },
+      "source": "Fixture sintetis",
+      "reference": {
+        "days": [
+          113.4,
+          134.814,
+          121.4,
+          272.3
+        ],
+        "total": 641.91,
+        "rank": 5
+      }
+    },
+    {
+      "id": "G02",
+      "name": "Kelompok Demo 02",
+      "legacyInputs": {
+        "winner1": 20,
+        "tasks2": [
+          2,
+          1,
+          4
+        ],
+        "tasks3": [
+          1,
+          2,
+          4,
+          1
+        ]
+      },
+      "source": "Fixture sintetis",
+      "reference": {
+        "days": [
+          125.3,
+          136.764,
+          118.85,
+          288.9
+        ],
+        "total": 669.81,
+        "rank": 4
+      }
+    },
+    {
+      "id": "G03",
+      "name": "Kelompok Demo 03",
+      "legacyInputs": {
+        "winner1": 50,
+        "tasks2": [
+          2,
+          4,
+          4
+        ],
+        "tasks3": [
+          1,
+          4,
+          4,
+          2
+        ]
+      },
+      "source": "Fixture sintetis",
+      "reference": {
+        "days": [
+          140.6,
+          148.864,
+          139.3,
+          269.6
+        ],
+        "total": 698.36,
+        "rank": 2
+      }
+    },
+    {
+      "id": "G04",
+      "name": "Kelompok Demo 04",
+      "legacyInputs": {
+        "winner1": 20,
+        "tasks2": [
+          2,
+          3,
+          4
+        ],
+        "tasks3": [
+          3,
+          2,
+          3,
+          3
+        ]
+      },
+      "source": "Fixture sintetis",
+      "reference": {
+        "days": [
+          134.4,
+          143.45,
+          140.55,
+          275.8
+        ],
+        "total": 694.2,
+        "rank": 3
+      }
+    },
+    {
+      "id": "G05",
+      "name": "Kelompok Demo 05",
+      "legacyInputs": {
+        "winner1": 100,
+        "tasks2": [
+          2,
+          4,
+          1
+        ],
+        "tasks3": [
+          2,
+          2,
+          1,
+          4
+        ]
+      },
+      "source": "Fixture sintetis",
+      "reference": {
+        "days": [
+          184.1,
+          133.214,
+          125.39999999999999,
+          268.3
+        ],
+        "total": 711.01,
+        "rank": 1
+      }
+    }
+  ],
+  "sourceDifferences": [],
+  "importHistory": [],
+  "sourceNotes": [
+    {
+      "severity": "info",
+      "code": "SYNTHETIC",
+      "message": "Semua nama dan nilai awal source ini sintetis. Impor data asli hanya melalui aplikasi internal yang telah diizinkan.",
+      "source": "Fixture pengembangan aplikasi"
+    },
+    {
+      "code": "DAILY_WEIGHTS",
+      "severity": "warning",
+      "message": "Kriteria mencantumkan bobot harian 10/30/30/30, tetapi TOTAL menjumlahkan Day 1-4 tanpa bobot harian. Mode arsip mempertahankan rumus efektif, bukan menetapkan aturan 2026.",
+      "source": "Leaderboard SFMDP .xlsx | Komponen Leaderboard A2:A7; Database individual F2:F31; Database Kelompok F2:F6"
+    },
+    {
+      "code": "POST_DAY4",
+      "severity": "warning",
+      "message": "Rumus individu Day 4 memakai 0% post-test, sementara kriteria menulis 50%. Nilai bonus kosong pada arsip diperlakukan sebagai 0 oleh rumus asli; tidak digeneralisasi ke data baru.",
+      "source": "Leaderboard SFMDP .xlsx | Database individual E2; Komponen Leaderboard C8"
+    },
+    {
+      "code": "GROUP_DAY3",
+      "severity": "warning",
+      "message": "Rumus kelompok Day 3 merujuk agregat post-test Day 2 (kolom L), bukan Day 3 (kolom M). Mode arsip mereplikasi referensi tersebut; tidak memperbaikinya diam-diam.",
+      "source": "Leaderboard SFMDP .xlsx | Database Kelompok D2:D6"
+    },
+    {
+      "code": "GROUP_SCALE",
+      "severity": "info",
+      "message": "Skor kelompok memakai jumlah skor anggota, bukan rata-rata, sehingga total bukan persentase dan bisa melebihi 100. Agregat post-test Day 4 dibagi 5 sesuai rumus lama.",
+      "source": "Leaderboard SFMDP .xlsx | Import Day 1 Q2:S6; Import Post Test N2:N6"
+    },
+    {
+      "code": "RANK_TIES",
+      "severity": "info",
+      "message": "Posisi urut pada tampilan lama berbeda dari RANK saat terjadi skor seri. Aplikasi memberi rank sama untuk total yang sama; arsip sumber tetap tersimpan.",
+      "source": "Leaderboard SFMDP .xlsx | Leaderboard B6:B35; Database individual G2:G31"
+    },
+    {
+      "code": "PROGRAM_STRUCTURE",
+      "severity": "info",
+      "message": "Arsip uji 2025 berisi 30 peserta, 5 kelompok dan Day 1-4. Struktur, peserta, tugas dan bobot 2026 harus ditetapkan terpisah; tidak otomatis menyalin aturan 2025.",
+      "source": "Leaderboard SFMDP .xlsx | Ref Peserta A2:C31; Database individual A1:G31"
+    }
+  ],
+  "isSynthetic": true
+}

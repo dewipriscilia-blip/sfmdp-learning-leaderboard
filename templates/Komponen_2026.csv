@@ -1,0 +1,6 @@
+﻿program_year,component_id,label,scope,max_score,weight,enabled
+2026,obs_day1,Observasi Day 1,individual,100,0,true
+2026,post_day2,Post-test Day 2,individual,100,0,true
+2026,obs_day2,Observasi Day 2,individual,100,0,true
+2026,activity_day1,Aktivitas kelompok Day 1,group,100,0,true
+2026,task_day2,Tugas kelompok Day 2,group,100,0,true

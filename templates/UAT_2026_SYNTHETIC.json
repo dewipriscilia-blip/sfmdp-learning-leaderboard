@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "projectYear": 2026,
+  "datasetLabel": "UAT SINTETIS 2026 - bukan hasil peserta",
+  "isAnonymous": true,
+  "participants": [
+    {
+      "id": "P001",
+      "name": "Peserta Uji A",
+      "dealer": "Dealer Uji",
+      "groupId": "G01"
+    },
+    {
+      "id": "P002",
+      "name": "Peserta Uji B",
+      "dealer": "Dealer Uji",
+      "groupId": "G01"
+    }
+  ],
+  "groups": [
+    {
+      "id": "G01",
+      "name": "Kelompok Uji"
+    }
+  ],
+  "individualScores": [
+    {
+      "entityId": "P001",
+      "componentId": "test",
+      "value": 40
+    },
+    {
+      "entityId": "P001",
+      "componentId": "obs",
+      "value": 4
+    },
+    {
+      "entityId": "P002",
+      "componentId": "test",
+      "value": 40
+    },
+    {
+      "entityId": "P002",
+      "componentId": "obs",
+      "value": null
+    }
+  ],
+  "groupScores": [
+    {
+      "entityId": "G01",
+      "componentId": "task",
+      "value": 3
+    }
+  ],
+  "components": [
+    {
+      "id": "test",
+      "label": "Test Uji",
+      "scope": "individual",
+      "max": 50,
+      "weight": 70,
+      "enabled": true
+    },
+    {
+      "id": "obs",
+      "label": "Observasi Uji",
+      "scope": "individual",
+      "max": 4,
+      "weight": 30,
+      "enabled": true
+    },
+    {
+      "id": "task",
+      "label": "Tugas Kelompok Uji",
+      "scope": "group",
+      "max": 4,
+      "weight": 100,
+      "enabled": true
+    }
+  ],
+  "rulesApproved": false,
+  "rulesVersion": "2026-draft-01",
+  "rulesApprovedBy": "",
+  "importHistory": [],
+  "sourceNotes": [],
+  "isSynthetic": true
+}

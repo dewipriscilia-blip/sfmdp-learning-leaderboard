@@ -1,0 +1,9 @@
+{
+  "name": "sfmdp-learning-leaderboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first SFMDP prototype; Google AI Studio migration starter. No runtime AI calls.",
+  "scripts": { "dev": "node server.mjs", "start": "node server.mjs", "build": "node build.mjs", "test": "node --test tests/*.test.mjs" },
+  "engines": { "node": ">=20" }
+}
